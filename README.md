@@ -28,4 +28,12 @@ The system is designed to promote the co-existence of humans and wildlife in rur
 
 The Roar to Restore project presents an innovative solution for the detection and protection of villages from wild animal incursions. The system can be easily deployed in rural areas and has the potential to be used as an effective tool for wildlife management and protection. By harnessing the power of sound, this system promotes peaceful co-existence and contributes towards achieving Sustainable Development Goal 15. 
 
+## Roar to Restore in Action
+[230408_023518_video.webm](https://user-images.githubusercontent.com/95826757/230679872-15a2d1d5-8dfa-475d-8fc5-b40e4a5ba5b5.webm)
+
+
+The Roar to Restore system uses sensors and sound recognition algorithms to detect wild animals and emit a loud sound to alert the villagers. Watch how the system detects and scares off wild animals, while remaining silent when detecting harmless animals such as cows. This innovative solution promotes co-existence of humans and wildlife in rural areas, reducing the frequency and severity of wild animal attacks, and contributing towards achieving Sustainable Development Goal 15 - Life on Land.
+
+
+
 
