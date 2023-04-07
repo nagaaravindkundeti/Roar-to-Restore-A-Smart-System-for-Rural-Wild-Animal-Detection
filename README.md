@@ -34,6 +34,9 @@ The Roar to Restore project presents an innovative solution for the detection an
 
 The Roar to Restore system uses sensors and sound recognition algorithms to detect wild animals and emit a loud sound to alert the villagers. Watch how the system detects and scares off wild animals, while remaining silent when detecting harmless animals such as cows. This innovative solution promotes co-existence of humans and wildlife in rural areas, reducing the frequency and severity of wild animal attacks, and contributing towards achieving Sustainable Development Goal 15 - Life on Land.
 
+```python
+# Your Python code goes here
+print("Hello, world!")
 
 
 
