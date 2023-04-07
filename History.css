@@ -1,0 +1,54 @@
+.back {
+  background-color: green;
+  color: white;
+  text-decoration: none;
+  border: none;
+  padding: 10px 24px;
+  text-align: center;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.back:hover {
+  background-color: #3e8e41;
+  opacity: 0.8;
+}
+
+
+table {
+			border-collapse: collapse;
+			width: 100%;
+		}
+
+		th, td {
+			text-align: left;
+			padding: 8px;
+			border: 1px solid black;
+		}
+
+		th {
+			background-color: #4CAF50;
+			color: white;
+		}
+
+		tr:nth-child(even) {
+			background-color: #f2f2f2;
+		}
+
+		.month-button {
+			background-color: #4CAF50;
+			color: white;
+			padding: 10px 20px;
+			border: none;
+			cursor: pointer;
+			border-radius: 5px;
+          margin: 5px;
+		}
+
+
+        #box > div:nth-child(4) {
+width: 60%;
+}
