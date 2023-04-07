@@ -41,7 +41,7 @@ This project uses computer vision to detect and count the number of "wild animal
 
 > Note: The use of the terms "wild animals" and "domestic animals or people" is purely for demonstration purposes and does not reflect any actual categorization or classification of animals or people.
 
-##Conclusion
+## Conclusion
 
 In conclusion, this project is a great example of how computer vision can be used to solve real-world problems. By detecting and counting the number of "wild animals" (hands) and "domestic animals or people" (faces) in real-time video, this system could be used to improve security in public spaces or monitor the number of people in a building.
 
