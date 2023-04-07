@@ -45,12 +45,7 @@ This project uses computer vision to detect and count the number of "wild animal
 
 This project is a great example of how computer vision can be used to solve real-world problems. By detecting and counting the number of "wild animals" (hands) and "domestic animals or people" (faces) in real-time video, this system could be used to improve security in public spaces or monitor the number of people in a building.
 
-**If you're interested in learning more about this project or contributing to its development, we encourage you to check out the source code on our GitHub repository. We welcome feedback, suggestions, and contributions from the community!**
-
-<div style="background-color:#f9f9f9;border:1px solid #ccc;padding:10px;">
-    <p style="font-size:16px;"><strong>Join our community!</strong> Check out the project's source code on GitHub to learn more about how it works and how you can contribute to its development. We're always looking for feedback and suggestions, and we welcome contributions of all kinds from the community. Let's build something amazing together!</p>
-</div>
-
+> If you're interested in learning more about this project or contributing to its development, we encourage you to check out the source code on our GitHub repository. We welcome feedback, suggestions, and contributions from the community!
 
 Thank you for taking the time to explore this project. We hope that you found it informative and inspiring.
 
