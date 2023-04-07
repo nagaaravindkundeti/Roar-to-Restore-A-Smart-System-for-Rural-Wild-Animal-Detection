@@ -18,7 +18,28 @@ We have implemented the Roar to Restore system using Flask, a Python web framewo
 Overall, the Roar to Restore system represents a significant step forward in protecting rural areas from wild animal incursions. It is an innovative and effective tool that has the potential to save lives and livelihoods in rural communities.
 
 ## Watch How Roar to Restore Protects Villages from Wild Animal Attacks
-https://user-images.githubusercontent.com/95826757/230670380-f3221173-ae7b-491e-a251-b4c201653a38.mp4
+
+```html
+<video id="roar-to-restore-video" src="https://user-images.githubusercontent.com/95826757/230670380-f3221173-ae7b-491e-a251-b4c201653a38.mp4"></video>
+
+<script>
+  const video = document.getElementById('roar-to-restore-video');
+  const options = {
+    rootMargin: '0px',
+    threshold: 0.5 // Play the video when 50% of it is visible
+  };
+
+  const observer = new IntersectionObserver((entries) => {
+    if (entries[0].isIntersecting) {
+      video.play();
+    } else {
+      video.pause();
+    }
+  }, options);
+
+  observer.observe(video);
+</script>
+```
 
 
 
