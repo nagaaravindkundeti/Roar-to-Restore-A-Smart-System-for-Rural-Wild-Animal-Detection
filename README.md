@@ -35,6 +35,7 @@ The Roar to Restore project presents an innovative solution for the detection an
 The Roar to Restore system uses sensors and sound recognition algorithms to detect wild animals and emit a loud sound to alert the villagers. Watch how the system detects and scares off wild animals, while remaining silent when detecting harmless animals such as cows. This innovative solution promotes co-existence of humans and wildlife in rural areas, reducing the frequency and severity of wild animal attacks, and contributing towards achieving Sustainable Development Goal 15 - Life on Land.
 
 ## Real-Time Animal/Person Detection with Computer Vision
+[screen-capture.webm](https://user-images.githubusercontent.com/95826757/230687057-b33acd16-49b7-47c4-91d8-7380e79b9e42.webm)
 
 This project uses computer vision to detect and count the number of "wild animals" (hands) and "domestic animals or people" (faces) in real-time video. It's built with Python and Flask, and uses the YOLO object detection algorithm to achieve high accuracy. The project also includes a visualization dashboard to display the animal/person count over time. 
 
