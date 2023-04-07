@@ -19,6 +19,7 @@ Overall, the Roar to Restore system represents a significant step forward in pro
 
 ## Watch How Roar to Restore Protects Villages from Wild Animal Attacks
 https://user-images.githubusercontent.com/95826757/230670380-f3221173-ae7b-491e-a251-b4c201653a38.mp4
+
 The Roar to Restore system uses a combination of sensors, sound recognition algorithms, and a sound-producing device to detect and alert the presence of wild animals. The sensors detect the movement and heat signatures of animals, and the sound recognition algorithms analyze the sensor data to identify the species of the animal. Once an animal is identified as a potential threat, the sound-producing device emits a loud sound to alert the villagers and drive away the animals.
 
 The system is designed to promote the co-existence of humans and wildlife in rural areas and contribute towards achieving Sustainable Development Goal 15 - Life on Land. By reducing the frequency and severity of wild animal attacks in rural areas, the system promotes human and animal safety, as well as reducing the economic losses associated with crop destruction.
