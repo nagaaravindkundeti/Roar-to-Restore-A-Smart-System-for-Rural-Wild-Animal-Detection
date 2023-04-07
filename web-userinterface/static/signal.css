@@ -1,0 +1,68 @@
+.grid {
+  display: flex;
+  flex-direction: column;
+  padding: 58px;
+  gap: 20px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.boxsignal {
+  width: 200px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+.white {
+  background-color: white;
+  border-radius: 15px;
+}
+
+.back {
+  background-color: green;
+  color: white;
+  text-decoration: none;
+  border: none;
+  padding: 10px 24px;
+  text-align: center;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.back:hover {
+  background-color: #3e8e41;
+  opacity: 0.8;
+}
+
+h3{
+  padding: 10px 39px 39px 44px;
+font-size: 30px;
+}
+
+
+.square {
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  animation-name: color-change;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes color-change {
+  0% {
+    background-color: red;
+  }
+  50% {
+    background-color: gray;
+  }
+  100% {
+    background-color: red;
+  }
+}

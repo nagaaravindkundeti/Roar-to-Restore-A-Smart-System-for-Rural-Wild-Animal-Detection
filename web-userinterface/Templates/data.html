@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Webcam Demo</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='data.css') }}">
+</head>
+<body>
+	<table>
+    <thead>
+      <tr>
+        <th>Sn. No.</th>
+        <th>Class Type</th>
+        <th>Entry Time</th>
+        <th>Exit Time</th>
+        <th>Total Duration</th>
+        <th>Min Confidence</th>
+        <th>Max Confidence</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Class A</td>
+        <td>09:00 AM</td>
+        <td>10:00 AM</td>
+        <td>1 hour</td>
+        <td>80%</td>
+        <td>95%</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Class B</td>
+        <td>10:30 AM</td>
+        <td>11:30 AM</td>
+        <td>1 hour</td>
+        <td>85%</td>
+        <td>98%</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Class C</td>
+        <td>12:00 PM</td>
+        <td>01:00 PM</td>
+        <td>1 hour</td>
+        <td>90%</td>
+        <td>99%</td>
+      </tr>
+    </tbody>
+  </table>
+<a href="{{ url_for('index') }}" class="back">Back</a>
+</body>
+</html>

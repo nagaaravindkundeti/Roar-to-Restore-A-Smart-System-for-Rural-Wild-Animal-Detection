@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Webcam Demo</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='signal.css') }}">
+
+
+</head>
+<body>
+    <div class="grid">
+          <div class="row">
+            <div class="boxsignal white"><div class="square"></div><h3>Object 1</h3></div>
+            <div class="boxsignal white"><div class="square"></div><h3>Object 2</h3></div>
+            <div class="boxsignal white"><div class="square"></div><h3>Object 3</h3></div>
+          </div>
+          <div class="row">
+            <div class="boxsignal white"><div class="square"></div><h3>Object 4</h3></div>
+            <div class="boxsignal white"><div class="square"></div><h3>Object 5</h3></div>
+            <div class="boxsignal white"><div class="square"></div><h3>Object 6</h3></div>
+          </div>
+    </div>
+    <a href="{{ url_for('index') }}" class="back">Back</a>
+
+</body>
+</html>
