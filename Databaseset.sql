@@ -1,1 +1,0 @@
-SELECT * FROM wildanimals.wild_animal_count;
