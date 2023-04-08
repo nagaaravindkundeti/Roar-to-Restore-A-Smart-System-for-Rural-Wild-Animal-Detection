@@ -44,17 +44,17 @@ This project uses computer vision to detect and count the number of "wild animal
   <a href="https://flask.palletsprojects.com/en/2.2.x/">
      <img src="https://user-images.githubusercontent.com/95826757/230701347-bf1ce5b6-7b44-4724-9dea-8544cf7b5438.png" width="10%" /></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="25%" height="0" alt="" />
-  <a href="https://cutt.ly/yolov5-readme-clearml">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://user-images.githubusercontent.com/95826757/230701475-7c82ccea-43aa-44a3-ab5a-86a907d88cf3.png" width="10%" /></a>
-  <a href="https://bit.ly/yolov8-readme-comet">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://user-images.githubusercontent.com/95826757/230701538-acad2bf4-a395-411b-a120-f073c31f3db1.png" width="10%" /></a>
-  <a href="https://bit.ly/yolov5-neuralmagic">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://user-images.githubusercontent.com/95826757/230701552-0a4bd6d9-ec7e-4e50-ad2c-bceb5df516cc.png" width="10%" /></a>
 </div>
 
 |                                                           Flask                                                           |                                                            Html , Css ,  java Script                                                             |
 | :--------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | 
-| [Flask's](https://flask.palletsprojects.com/en/2.2.x/) lightweight design and robust features make it a popular web framework. | Web development requires knowledge of HTML, CSS, and JavaScript for building modern websites. |
+| [Flask's](https://flask.palletsprojects.com/en/2.2.x/) lightweight design and robust features make it a popular web framework. | Web development requires knowledge of [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) for building modern websites. |
 
 ## <div align="center">Documentation</div>
 
