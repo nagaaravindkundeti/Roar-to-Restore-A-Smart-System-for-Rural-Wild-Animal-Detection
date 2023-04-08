@@ -41,14 +41,6 @@ This project uses computer vision to detect and count the number of "wild animal
 
 > Note: The use of the terms "wild animals" and "domestic animals or people" is purely for demonstration purposes and does not reflect any actual categorization or classification of animals or people.
 
-## Conclusion
-
-This project is a great example of how computer vision can be used to solve real-world problems. By detecting and counting the number of "wild animals" (hands) and "domestic animals or people" (faces) in real-time video, this system could be used to improve security in public spaces or monitor the number of people in a building.
-
-> If you're interested in learning more about this project or contributing to its development, we encourage you to check out the source code on our GitHub repository. We welcome feedback, suggestions, and contributions from the community!
-
-Thank you for taking the time to explore this project. We hope that you found it informative and inspiring.
-
 ## <div align="center">Documentation</div>
 
 See below for a quickstart installation and usage example, and see the [YOLOv8 Docs](https://docs.ultralytics.com) for
@@ -234,6 +226,14 @@ user-friendly [Ultralytics App](https://ultralytics.com/app_install). Start your
 
 <a href="https://bit.ly/ultralytics_hub" target="_blank">
 <img width="100%" src="https://github.com/ultralytics/assets/raw/main/im/ultralytics-hub.png"></a>
+
+## Conclusion
+
+This project is a great example of how computer vision can be used to solve real-world problems. By detecting and counting the number of "wild animals" (hands) and "domestic animals or people" (faces) in real-time video, this system could be used to improve security in public spaces or monitor the number of people in a building.
+
+> If you're interested in learning more about this project or contributing to its development, we encourage you to check out the source code on our GitHub repository. We welcome feedback, suggestions, and contributions from the community!
+
+Thank you for taking the time to explore this project. We hope that you found it informative and inspiring.
 
 
 
