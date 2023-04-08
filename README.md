@@ -42,7 +42,7 @@ This project uses computer vision to detect and count the number of "wild animal
 
 <div align="center">
   <a href="https://flask.palletsprojects.com/en/2.2.x/">
-    <img src="https://user-images.githubusercontent.com/95826757/230701347-bf1ce5b6-7b44-4724-9dea-8544cf7b5438.png" width="10%" /></a>
+     <img src="https://user-images.githubusercontent.com/95826757/230701347-bf1ce5b6-7b44-4724-9dea-8544cf7b5438.png" width="10%" /></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="15%" height="0" alt="" />
   <a href="https://cutt.ly/yolov5-readme-clearml">
     <img src="https://user-images.githubusercontent.com/95826757/230701475-7c82ccea-43aa-44a3-ab5a-86a907d88cf3.png" width="10%" /></a>
@@ -56,7 +56,7 @@ This project uses computer vision to detect and count the number of "wild animal
 
 |                                                           Flask                                                           |                                                            Html                                                            |                                                                        Css                                                                       |                                          java Script                                         |
 | :--------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
-| With its lightweight design and robust features, [Flask](https://flask.palletsprojects.com/en/2.2.x/)  has become a popular framework for building web applications. | Automatically track, visualize and even remotely train YOLOv8 using [ClearML](https://cutt.ly/yolov5-readme-clearml) (open-source!) | Free forever, [Comet](https://bit.ly/yolov8-readme-comet) lets you save YOLOv8 models, resume training, and interactively visualize and debug predictions | Run YOLOv8 inference up to 6x faster with [Neural Magic DeepSparse](https://bit.ly/yolov5-neuralmagic) |
+| [Flask's](https://flask.palletsprojects.com/en/2.2.x/) lightweight design and robust features make it a popular web framework. | Automatically track, visualize and even remotely train YOLOv8 using [ClearML](https://cutt.ly/yolov5-readme-clearml) (open-source!) | Free forever, [Comet](https://bit.ly/yolov8-readme-comet) lets you save YOLOv8 models, resume training, and interactively visualize and debug predictions | Run YOLOv8 inference up to 6x faster with [Neural Magic DeepSparse](https://bit.ly/yolov5-neuralmagic) |
 
 ## <div align="center">Documentation</div>
 
