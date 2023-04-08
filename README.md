@@ -3,6 +3,7 @@
 
 ![poster presemtation (2)_page-0001 (1)](https://user-images.githubusercontent.com/95826757/230668088-a65ff4f0-b184-46f9-a9c1-ef3bbf0c4f88.jpg)
 
+![pngwing com (1)](https://user-images.githubusercontent.com/95826757/230701475-7c82ccea-43aa-44a3-ab5a-86a907d88cf3.png)
 
 
 Wild animal incursions in rural areas pose a serious threat to human and animal life, as well as agriculture. To address this challenge, we have developed an innovative sound-based wild animal detection system called "Roar to Restore". This system is designed to detect and alert villagers to the presence of dangerous animals in the vicinity.
